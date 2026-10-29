@@ -1,0 +1,16 @@
+Package: com.logthedeveloper.editfix
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: logthedeveloper
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.logthedeveloper.editfix_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 2778
+MD5sum: 3ea1d9ad0c9e83c7717d6e5a2af58e08
+SHA1: bc0fa56918e8bf54ddf7a2a1ac7744e42a82f2eb
+SHA256: 02b5731c2b538d7834bf33e69979da4c50c47a1f558df1402ce8b17630bd7ca3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: logthedeveloper
+Name: EditFix
+
