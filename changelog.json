@@ -1,0 +1,14 @@
+{
+  "tabs": [
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Version 0.0.2\n- added ability to see edits\n- beta text bubble color\n\n## Version 0.0.1\n- Initial beta release"
+        }
+      ]
+    }
+  ]
+}
