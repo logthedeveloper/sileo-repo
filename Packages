@@ -2,15 +2,15 @@ Package: com.logthedeveloper.editfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: logthedeveloper
-Installed-Size: 88
+Installed-Size: 128
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.logthedeveloper.editfix_0.0.1_iphoneos-arm64.deb
-Size: 2778
-MD5sum: 3ea1d9ad0c9e83c7717d6e5a2af58e08
-SHA1: bc0fa56918e8bf54ddf7a2a1ac7744e42a82f2eb
-SHA256: 02b5731c2b538d7834bf33e69979da4c50c47a1f558df1402ce8b17630bd7ca3
+Size: 24600
+MD5sum: ff85974d4cb2c0833deb71ba0cf5b41d
+SHA1: 4bd900955413c8967f660a0b4c49cee6789ce40f
+SHA256: 535c9ed8483a3f1ea9afab32ab1aefb8f0c9bf08574708a99372497a33597ceb
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Tweak to allow the viewing of edited messgees, changing sms groupchat names a photos, and changing a users text bubble color. Hold down on their messege to begin!
 Author: logthedeveloper
 Name: EditFix
 SileoDepiction: https://repo.logancodes.xyz/changelog.json
